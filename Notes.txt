@@ -1,4 +1,4 @@
 Installation:- npx create-next-app@latest
-1>gsap animation
-2>shadcn/ui
-3>cache
+1>shadcn/ui -> chai aur code
+2>backend -> crud operation (my sql and mongodb both)
+3>authentication -> chai aur code
